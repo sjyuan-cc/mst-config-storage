@@ -1,3 +1,6 @@
 spring:
   application:
     name: authentication
+
+user:
+  name: sjyuan
