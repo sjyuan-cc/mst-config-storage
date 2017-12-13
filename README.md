@@ -1,1 +1,1 @@
-A MST(Micro Service Training) config store that host all configuration files
+A MST(Micro Service Training) config store that host all configuration files.
