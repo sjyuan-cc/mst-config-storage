@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: authentication
-
 user:
-  name: sjyuan
+  name: sjyuan-qa
